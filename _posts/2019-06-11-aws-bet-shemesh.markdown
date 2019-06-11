@@ -26,10 +26,10 @@ This year alone has brought more than **20 new startups to the city**.
 
 When I speak to business contacts I give my location as "near Tel Aviv". Within 10 years there will be nobody in the tech world who hasn't heard of Bet Shemesh.
 
-The way to register for the event is by having a conversation with "Reggie, the registration robot". You can find Reggie at [www.sifradigital.com/aws-ai-event][].
+The way to register for the event is by having a conversation with "Reggie, the registration robot". You can find Reggie at [www.sifradigital.com/aws-ai-event][1].
 
-More event info is at [www.sifradigital.com/aws-event][].
+More event info is at [www.sifradigital.com/aws-event][2].
 
-[]: www.sifradigital.com/aws-ai-event
+[1]: www.sifradigital.com/aws-ai-event
 
-[]: www.sifradigital.com/aws-event
+[2]: www.sifradigital.com/aws-event
