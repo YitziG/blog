@@ -28,8 +28,8 @@ When I speak to business contacts I give my location as "near Tel Aviv". Within 
 
 The way to register for the event is by having a conversation with "Reggie, the registration robot". You can find Reggie at [www.sifradigital.com/aws-ai-event][1].
 
-More event info is at [www.sifradigital.com/aws-event][2].
+More event info is at [www.sifradigital.com/aws-sifra][2].
 
 [1]: www.sifradigital.com/aws-ai-event
 
-[2]: www.sifradigital.com/aws-event
+[2]: www.sifradigital.com/aws-sifra
