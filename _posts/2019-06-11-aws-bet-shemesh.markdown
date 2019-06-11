@@ -30,6 +30,6 @@ The way to register for the event is by having a conversation with "Reggie, the 
 
 More event info is at [www.sifradigital.com/aws-sifra][2].
 
-[1]: www.sifradigital.com/aws-ai-event
+[1]: https://www.sifradigital.com/aws-ai-event
 
-[2]: www.sifradigital.com/aws-sifra
+[2]: https://www.sifradigital.com/aws-sifra
