@@ -10,7 +10,7 @@ Amazon will share details of it's "Activate" program for startups. An AWS engine
 
 It is rare for tech companies to take part in events outside of tech centers like Tel Aviv and Jerusalem.
 
-###### What is special about Bet Shemesh?
+## What is special about Bet Shemesh?
 
 Bet Shemesh is beginning to undergo a change and large companies are taking note.
 
