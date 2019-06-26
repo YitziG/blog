@@ -18,7 +18,7 @@ Law firms seeking access to precedent-setting legal opinions will need to pay We
 
 To fight this travesty [AnyLaw](http://anylaw.com) ([as seen on forbes.com](https://www.forbes.com/sites/maryjuetten/2019/01/22/free-legal-research-for-all-anylaw)) has built a robust, fully-featured, and most importantly, FREE legal search engine!
 
-{% youtube 7y9QP-Sh4fU %}
+{% include youtubePlayer.html id=7y9QP-Sh4fU %}
 
 Cool, I know!
 
@@ -83,7 +83,7 @@ final HtmlForm form = page.getFormByName("aspnetForm");
 
 The `getFormByName()` method provides us with another `HtmlUnit` object, this one representing the form. It is easy to identify the name of any elements that we need using the browsers dev tools as seen below.
 
-{% youtube 40hyOkqwKYw %}
+{% include youtubePlayer.html id=40hyOkqwKYw %}
 
 #### Getting and interacting with the input fields
 
