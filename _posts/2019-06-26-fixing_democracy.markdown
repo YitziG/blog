@@ -6,7 +6,7 @@ categories: open-source code law web-scraping
 
 #### Submitting forms and scraping data for the public good
 
-![](https://cdn-images-1.medium.com/max/1024/0*G1qzri4PoIbSsEh8)<figcaption>Photo by <a href="https://unsplash.com/@ushakov_kyryll?utm_source=medium&amp;utm_medium=referral">kyryll ushakov</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral">Unsplash</a></figcaption>
+![](https://cdn-images-1.medium.com/max/1024/0*G1qzri4PoIbSsEh8)Photo by <a href="https://unsplash.com/@ushakov_kyryll?utm_source=medium&amp;utm_medium=referral">kyryll ushakov</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral">Unsplash</a>
 
 The US legal system is stacked against the poor.
 
@@ -58,11 +58,11 @@ The first thing our bot needs to do is to get a list of all Supreme Court opinio
 
 Step 1. Install the HtmlUnit dependency. We place the following code snippet into our apps pom.xml. If you are not using Maven, visit the website for additional options.
 
-{% gist https://gist.github.com/YitziG/c89b7492c6af69fe341c978aa88e6c08 %}
+{% gist c89b7492c6af69fe341c978aa88e6c08 %}
 
 Step 2. Create a method that fills out and submits the form. This is what such a method looks like:
 
-{% gist https://gist.github.com/YitziG/d59d48773c7ad50f9b477671553a68e6 %}
+{% gist d59d48773c7ad50f9b477671553a68e6 %}
 
 What’s happening here?  
 Let’s go through this line by line.
