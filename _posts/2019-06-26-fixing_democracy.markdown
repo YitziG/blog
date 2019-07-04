@@ -42,7 +42,7 @@ Courts are allowed to do as they please in terms of building their site.
 
 For example have a look at the website of [Virginia’s Supreme Court](http://www.courts.state.va.us/scndex.htm):
 
-![](https://cdn-images-1.medium.com/max/1024/1*SpsopEWjZp7ZV43-u9QHZQ.png)<figcaption>Yikes!!</figcaption>
+![](https://cdn-images-1.medium.com/max/1024/1*SpsopEWjZp7ZV43-u9QHZQ.png)Yikes!!
 
 Yup, that is every Supreme Court decision since 1995 on a single page. 😕
 
@@ -52,7 +52,7 @@ TLDR; Each court website needs a bot 😧
 
 Texas is a great example because of the complexity of their site. This is what our bot is confronted with when it navigates to the [court system URL](http://www.search.txcourts.gov/CaseSearch.aspx?d=1&coa=cossup):
 
-![](https://cdn-images-1.medium.com/max/1002/1*Voqr5WMG2rWWWykEw-M9Fw.png)<figcaption>a non-exceptional form</figcaption>
+![](https://cdn-images-1.medium.com/max/1002/1*Voqr5WMG2rWWWykEw-M9Fw.png)a non-exceptional form
 
 The first thing our bot needs to do is to get a list of all Supreme Court opinions. Since this bot needs to interact with the site, we chose to use [HtmlUnit](http://htmlunit.sourceforge.net/) by [Gargoyle Software Inc.](http://www.gargoylesoftware.com/)
 
@@ -135,11 +135,11 @@ After a single run the bot has:
 
 - downloaded 541 files from Texas courts!
 
-![](https://cdn-images-1.medium.com/max/523/1*nDIXiR95NKp2T3iNm87VlQ.png)<figcaption>My other computer’s a Mac</figcaption>
+![](https://cdn-images-1.medium.com/max/523/1*nDIXiR95NKp2T3iNm87VlQ.png)My other computer’s a Mac
 
 - Inserted the download info into our database. This info includes the source URL as well as the current location on our server.
 
-![](https://cdn-images-1.medium.com/max/1024/1*TNmvRE-nZB5LNFMqYlyWoQ.png)<figcaption>Yes, I know this is NJ. Sue me.</figcaption>
+![](https://cdn-images-1.medium.com/max/1024/1*TNmvRE-nZB5LNFMqYlyWoQ.png)Yes, I know this is NJ. Sue me.
 
 - Inserted metadata about the case with a foreign key to the download entry. This metadata includes the date of the decision, case title, and issuing court.
 
