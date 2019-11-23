@@ -12,7 +12,7 @@ At six months with more than 500,000 installs, I was going to have to shut it do
 
 #### Hi, I’m Yitzi.
 
-![]({{site.url}}/assets/img/1__7iEak2Ix9uUmNEPlG34elQ.png)
+![]({{site.baseurl}}/img/1__7iEak2Ix9uUmNEPlG34elQ.png)
 
 I build apps for a living. Mostly for large corporations that pay me an excellent take-home salary and then go on to make exponentially more than that from my hard work.
 
@@ -80,7 +80,7 @@ Five dollars and thirty minutes later, I had 5,000 fresh installs. I couldn’t 
 
 I began paying for Facebook and Google ads as well. “kualitychepeinstalls” was great, but the whole “.onion” thing was weirding me out. Plus, I figured three is better than one and could only serve to diversify my reach.
 
-![I needed more of this!](img/1____whGZPGvX0ziZ7uSEjzveg.png)
+![I needed more of this!]({{site.baseurl}}/img/1____whGZPGvX0ziZ7uSEjzveg.png)
 I needed more of this!
 
 #### One month later.
