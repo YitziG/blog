@@ -2,9 +2,6 @@
 title: How I became an Indie developer
 description: I couldn’t believe it.
 date: '2019-11-19T14:24:45.697Z'
-categories: []
-keywords: []
-slug: /@YitziG/how-i-became-an-indie-developer-b35ed0954b1a
 ---
 
 I couldn’t believe it.
@@ -13,7 +10,7 @@ My new app, “Virtree,” was doing amazingly well on the play store. It had be
 
 At six months with more than 500,000 installs, I was going to have to shut it down.
 
-#### Hi, I’m Yitzi.
+#### Hi, I’m Yitzi.
 
 ![](img/1__7iEak2Ix9uUmNEPlG34elQ.png)
 
@@ -73,7 +70,7 @@ I had exhausted myself. A vacation was what I needed. I packed up my gear and he
 
 When I got back home, I raced to my computer with my loaded backpack still on. 41. Yikes.
 
-#### Ads. Ads. Ads.
+#### Ads. Ads. Ads.
 
 I wasn’t that worried because I had been planning all along to do some advertising. It’s just that part of me wasn’t ready to admit that. I had a deep inner belief that advertising my app would be “cheating.” I wanted to make it on my own. Now, faced with the prospect of needing to ask for my job back, I was ready.
 
@@ -83,10 +80,10 @@ Five dollars and thirty minutes later, I had 5,000 fresh installs. I couldn’t 
 
 I began paying for Facebook and Google ads as well. “kualitychepeinstalls” was great, but the whole “.onion” thing was weirding me out. Plus, I figured three is better than one and could only serve to diversify my reach.
 
-![I needed more of this!](img/1____whGZPGvX0ziZ7uSEjzveg.png)
-I needed more of this!
+![I needed more of this!](img/1____whGZPGvX0ziZ7uSEjzveg.png)
+I needed more of this!
 
-#### One month later.
+#### One month later.
 
 !%$#@%@!!
 
@@ -100,23 +97,23 @@ Only three trees were purchased, two of them by the same user!
 
 If this continues, I’d be finished.
 
-#### Five months after that.
+#### Five months after that.
 
 I’m finished.
 
-#### A ray of hope.
+#### A ray of hope.
 
 Driving home from WeWork for the last time with all my stuff in the trunk, I was about to flip on some depressing Country when “Indie Hackers” starts playing. Funny because I don’t remember that I was listening to it on the way to work.
 
 The host is interviewing some indie dev who “made it.” The developer (I can’t remember who it was) described a situation similar to mine and began talking about how mobile attribution completely turned around his ad spend and strategy. I was having the same problem as he was! Many installs but very few quality ones. I made a mental note to google “mobile attribution” when I got home.
 
-#### A new lease.
+#### A new lease.
 
 I had high hopes for mobile attribution. From what I understood, this technology would help me prove how many clicks were coming from each network, so I would not get overcharged.
 
 More importantly, it would allow me to take a scientific approach to my advertising. I would be able to understand where I was getting the most value and which networks I should drop.
 
-#### A new plan.
+#### A new plan.
 
 I did a second fundraising round, and by psychologically pressuring and manipulating my friends and family, I was able to raise enough funds for two additional months of advertising. I also received promises of extra funding if I could prove that the advertising was working to increase bottom-line revenue.
 
@@ -138,5 +135,5 @@ Thanks for reading!
 
 Disclaimer: Very little of this is true, it belongs to the genre of “developer fiction”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY0NDY4MjNdfQ==
+eyJoaXN0b3J5IjpbNzI4NTY2NjgxLC0xODM2NDQ2ODIzXX0=
 -->
