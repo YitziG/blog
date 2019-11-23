@@ -12,7 +12,7 @@ At six months with more than 500,000 installs, I was going to have to shut it do
 
 #### Hi, I’m Yitzi.
 
-![](/img/1__7iEak2Ix9uUmNEPlG34elQ.png)
+![](/assets/img/1__7iEak2Ix9uUmNEPlG34elQ.png)
 
 I build apps for a living. Mostly for large corporations that pay me an excellent take-home salary and then go on to make exponentially more than that from my hard work.
 
