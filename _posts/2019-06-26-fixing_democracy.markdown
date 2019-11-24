@@ -2,6 +2,8 @@
 layout: post
 title: Fixing Democracy, Developer Style
 categories: open-source code law web-scraping
+permalink: democracy
+
 ---
 
 #### Submitting forms and scraping data for the public good
