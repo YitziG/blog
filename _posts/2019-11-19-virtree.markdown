@@ -44,7 +44,7 @@ I decided to begin my career as an indie developer with “Virtree.”
 
 Virtree is an app that allows you to “plant” trees on Virtree’s proprietary blockchain. Currently, we only support binary trees with Red-Black trees coming soon.
 
-{% youtube EmTHa4UlCUY %}
+{% include youtubePlayer.html id=EmTHa4UlCUY %}
 
 My friends loved it!
 
