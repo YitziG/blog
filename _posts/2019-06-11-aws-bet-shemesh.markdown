@@ -2,6 +2,7 @@
 layout: post
 title:  "Can Bet Shemesh have a Hi-tech future? Amazon and Ikea think so!"
 date:   2019-06-11 13:34:43 +0200
+permalink: aws
 categories: aws sifra
 ---
 There is a first time for everything. Wednesday, June 12, 2019, will be the first of many tech milestones for Bet Shemesh. SifraDigital, a boutique digital media & software consulting firm, is hosting Amazon Web Services. The event will occur on June 12th, 2019 and starts at 4:00 PM at Sifra's Bet Shemesh office.
