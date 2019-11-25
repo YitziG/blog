@@ -3,7 +3,7 @@ title: How I Became an Indie Developer
 description: I couldn’t believe it.
 date: '2019-11-19T14:24:45.697Z'
 permalink: virtree
-image: /me.png
+image: /img/me.png
 
 ---
 
