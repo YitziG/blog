@@ -2,8 +2,6 @@
 title: Principles of Developer Focused Design
 description:  
 date: '2019-11-24T14:22:33.586Z'
-categories: []
-keywords: []
 permalink: dev-design
 
 ---
