@@ -3,7 +3,7 @@ title: Principles of Developer Focused Design
 description:  
 date: '2019-11-24T14:22:33.586Z'
 permalink: dev-design
-image: /download.png
+image: /img/download.png
 
 ---
 #### Developers are human (usually)
