@@ -3,6 +3,7 @@ layout: post
 title: Fixing Democracy, Developer Style
 categories: open-source code law web-scraping
 permalink: democracy
+published: false
 
 ---
 
